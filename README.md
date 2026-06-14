@@ -19,20 +19,13 @@ Os resultados revelaram um cenário crítico: foram identificadas mais de 5.000 
 * Roteiro de Inspeção Manual: Uma planilha detalhada com 29 requisitos de acessibilidade (identificados de R02 a R47), baseados nas diretrizes da WCAG e adaptados para o contexto mobile.
 
 * Guia da Jornada do Usuário: O detalhamento das 7 etapas de interação avaliadas:
-
- - Navegação na Home;
-
- - Fluxo de Login/Cadastro;
-
- - Busca de Medicamentos;
-
- - Análise da Lista de Resultados;
-
- - Visualização de Detalhes do Produto;
-
- - Gerenciamento do Carrinho;
-
- - Endereço.
+ * Navegação na Home;
+ * Fluxo de Login/Cadastro;
+ * Busca de Medicamentos;
+ * Análise da Lista de Resultados;
+ * Visualização de Detalhes do Produto;
+ * Gerenciamento do Carrinho;
+ * Endereço.
 
 
 **Dados de Inspeção Automática**: Relatórios gerados pela ferramenta Accessibility Scanner, destacando erros de contraste, áreas de toque inadequadas e falta de rótulos.
