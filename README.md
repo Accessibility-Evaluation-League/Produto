@@ -16,9 +16,9 @@ Os resultados revelaram um cenário crítico: foram identificadas mais de 5.000 
 
 **Neste repositório, você encontrará:**
 
-**Roteiro de Inspeção Manual:** Uma planilha detalhada com 29 requisitos de acessibilidade (identificados de R02 a R47), baseados nas diretrizes da WCAG e adaptados para o contexto mobile.
+* Roteiro de Inspeção Manual: Uma planilha detalhada com 29 requisitos de acessibilidade (identificados de R02 a R47), baseados nas diretrizes da WCAG e adaptados para o contexto mobile.
 
-**Guia da Jornada do Usuário:** O detalhamento das 7 etapas de interação avaliadas:
+* Guia da Jornada do Usuário: O detalhamento das 7 etapas de interação avaliadas:
 
 Navegação na Home;
 
