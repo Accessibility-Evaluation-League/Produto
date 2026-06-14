@@ -20,19 +20,19 @@ Os resultados revelaram um cenário crítico: foram identificadas mais de 5.000 
 
 * Guia da Jornada do Usuário: O detalhamento das 7 etapas de interação avaliadas:
 
-Navegação na Home;
+- Navegação na Home;
 
-Fluxo de Login/Cadastro;
+- Fluxo de Login/Cadastro;
 
-Busca de Medicamentos;
+- Busca de Medicamentos;
 
-Análise da Lista de Resultados;
+- Análise da Lista de Resultados;
 
-Visualização de Detalhes do Produto;
+- Visualização de Detalhes do Produto;
 
-Gerenciamento do Carrinho;
+- Gerenciamento do Carrinho;
 
-Endereço.
+- Endereço.
 
 
 **Dados de Inspeção Automática**: Relatórios gerados pela ferramenta Accessibility Scanner, destacando erros de contraste, áreas de toque inadequadas e falta de rótulos.
@@ -43,11 +43,11 @@ Endereço.
 
 Para replicar ou expandir esta avaliação, foram utilizadas as seguintes tecnologias:
 
-**TalkBack:** Leitor de tela nativo do sistema Android para navegação descritiva.
+* **TalkBack:** Leitor de tela nativo do sistema Android para navegação descritiva.
 
-**Accessibility Scanner:** Ferramenta do Google para identificação automática de melhorias de acessibilidade em apps Android.
+* **Accessibility Scanner:** Ferramenta do Google para identificação automática de melhorias de acessibilidade em apps Android.
 
-**Planilha de Requisitos de Acessibilidade:** Instrumento metodológico para inspeção manual guiada.
+* **Planilha de Requisitos de Acessibilidade:** Instrumento metodológico para inspeção manual guiada.
 
 
 ## Objetivo
