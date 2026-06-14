@@ -15,22 +15,25 @@ Os resultados revelaram um cenário crítico: foram identificadas mais de 5.000 
 ## Conteúdo do Repositório
 
 **Neste repositório, você encontrará:**
-**Roteiro de Inspeção Manual:** Uma planilha detalhada com 29 requisitos de acessibilidade (identificados de R02 a R47), baseados nas diretrizes da WCAG e adaptados para o contexto mobile
-.
+
+**Roteiro de Inspeção Manual:** Uma planilha detalhada com 29 requisitos de acessibilidade (identificados de R02 a R47), baseados nas diretrizes da WCAG e adaptados para o contexto mobile.
+
 **Guia da Jornada do Usuário:** O detalhamento das 7 etapas de interação avaliadas:
+
 Navegação na Home;
 Fluxo de Login/Cadastro;
 Busca de Medicamentos;
 Análise da Lista de Resultados;
 Visualização de Detalhes do Produto;
 Gerenciamento do Carrinho;
-Endereço
-.
+Endereço.
 
 **Dados de Inspeção Automática**: Relatórios gerados pela ferramenta Accessibility Scanner, destacando erros de contraste, áreas de toque inadequadas e falta de rótulos.
+
 **Relatos de Experiência (UX)**: Compilado de feedbacks qualitativos dos avaliadores PDVs, descrevendo a frustração e a perda de autonomia causadas por barreiras específicas, como botões com nomes técnicos ("BTN cesta home") ou feedbacks sonoros inexistentes.
 
-#Ferramentas Utilizadas no Estudo
+
+##Ferramentas Utilizadas no Estudo
 
 Para replicar ou expandir esta avaliação, foram utilizadas as seguintes tecnologias:
 
