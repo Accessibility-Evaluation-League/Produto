@@ -39,8 +39,7 @@ Endereço.
 
 **Relatos de Experiência (UX)**: Compilado de feedbacks qualitativos dos avaliadores PDVs, descrevendo a frustração e a perda de autonomia causadas por barreiras específicas, como botões com nomes técnicos ("BTN cesta home") ou feedbacks sonoros inexistentes.
 
-
-## Ferramentas Utilizadas no Estudo
+### Ferramentas Utilizadas no Estudo
 
 Para replicar ou expandir esta avaliação, foram utilizadas as seguintes tecnologias:
 
