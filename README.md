@@ -41,6 +41,6 @@ Accessibility Scanner: Ferramenta do Google para identificação automática de 
 Planilha de Requisitos de Acessibilidade: Instrumento metodológico para inspeção manual guiada.
 
 
-#Objetivo
+# Objetivo
 
 O propósito deste guia é fornecer recursos práticos para que a comunidade de desenvolvimento de software e Interação Humano-Computador (IHC) possa garantir que os serviços de saúde digitais sejam acompanhados de garantias efetivas de acessibilidade, promovendo autonomia e segurança para todos os usuários.
