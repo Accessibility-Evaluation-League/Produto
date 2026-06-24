@@ -3,6 +3,11 @@
 Este repositório contém os materiais e dados do Estudo 4 do artigo “Acessibilidade Digital no Ciclo de Consumo de Fármacos: Do Acesso à Informação ao Reconhecimento de Medicamentos por IAs Generativas” 
 
 
+## Objetivo
+
+O propósito deste repositório é fornecer recursos para auxiliar em pesquisas para que a comunidade de desenvolvimento de software e Interação Humano-Computador (IHC) possa garantir que os serviços de saúde digitais sejam acompanhados de garantias efetivas de acessibilidade, promovendo autonomia e segurança para todos os usuários.
+
+
 ## Sobre o Estudo 4
 
 O Estudo teve como objetivo analisar a acessibilidade dos três aplicativos de farmácia mais baixados no Brasil (identificados como P, D e DS) para dispositivos Android. 
@@ -19,6 +24,7 @@ Os resultados revelaram um cenário crítico: foram identificadas mais de 5.000 
 * Roteiro de Inspeção Manual: Uma planilha detalhada com 29 requisitos de acessibilidade (identificados de R02 a R47), baseados nas diretrizes da WCAG e adaptados para o contexto mobile.
 
 * Guia da Jornada do Usuário: O detalhamento das 7 etapas de interação avaliadas:
+  
  * Navegação na Home;
  * Fluxo de Login/Cadastro;
  * Busca de Medicamentos;
@@ -43,6 +49,4 @@ Para replicar ou expandir esta avaliação, foram utilizadas as seguintes tecnol
 * **Planilha de Requisitos de Acessibilidade:** Instrumento metodológico para inspeção manual guiada.
 
 
-## Objetivo
 
-O propósito deste guia é fornecer recursos práticos para que a comunidade de desenvolvimento de software e Interação Humano-Computador (IHC) possa garantir que os serviços de saúde digitais sejam acompanhados de garantias efetivas de acessibilidade, promovendo autonomia e segurança para todos os usuários.
