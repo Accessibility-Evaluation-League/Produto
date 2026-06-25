@@ -1,6 +1,6 @@
 # Acessibilidade Digital no Consumo de Medicamentos: Avaliação de Aplicativos de Farmácia (Estudo 4)
 
-Este repositório contém os materiais e dados do Estudo 4 do artigo “Acessibilidade Digital no Ciclo de Consumo de Fármacos: Do Acesso à Informação ao Reconhecimento de Medicamentos por IAs Generativas” 
+Este repositório contém os materiais e dados do Estudo 4 do artigo “Avaliação de Acessibilidade Digital no Ciclo do Consumo de Fármacos” 
 
 
 ## Objetivo
@@ -25,13 +25,13 @@ Os resultados revelaram um cenário crítico: foram identificadas mais de 5.000 
 
 * Guia da Jornada do Usuário: O detalhamento das 7 etapas de interação avaliadas:
   
- * Navegação na Home;
- * Fluxo de Login/Cadastro;
- * Busca de Medicamentos;
- * Análise da Lista de Resultados;
- * Visualização de Detalhes do Produto;
- * Gerenciamento do Carrinho;
- * Endereço.
+ 1. Navegação na Home;
+ 2. Fluxo de Login/Cadastro;
+ 3. Busca de Medicamentos;
+ 4. Análise da Lista de Resultados;
+ 5. Visualização de Detalhes do Produto;
+ 6. Gerenciamento do Carrinho;
+ 7. Endereço.
 
 
 **Dados de Inspeção Automática**: Relatórios gerados pela ferramenta Accessibility Scanner, destacando erros de contraste, áreas de toque inadequadas e falta de rótulos.
@@ -50,3 +50,10 @@ Para replicar ou expandir esta avaliação, foram utilizadas as seguintes tecnol
 
 
 
+### Exemplos de erros nos aplicativos
+
+
+
+
+
+### Sugestões de melhoria pelos usuários
