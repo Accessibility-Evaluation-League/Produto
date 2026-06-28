@@ -50,20 +50,20 @@ Para replicar ou expandir esta avaliação, foram utilizadas as seguintes tecnol
 
 
 
-### Exemplos de erros nos aplicativos
+## Exemplos de erros nos aplicativos
 Embora todos os aplicativos examinados apresentem falhas que podem interromper a jornada de compra de PDVs, o aplicativo P chama a atenção negativamente. Com um total de 2.909 erros detectados, destaca-se um problema extremamente crítico: a ausência de suporte para o TalkBack especificamente na barra de pesquisa, o que impede que o usuário consiga localizar ou buscar medicamentos, inviabilizando uma funcionalidade fundamental durante a navegação. 
 
 **Barra de pesquisa do aplicativo P inacessível:**
 Vídeo
 https://github.com/user-attachments/assets/4d341571-96d2-482c-8fb4-ebf25b2b3e93
 
-**Total de erros: **
+**Total de erros**:
 
 <img width="784" height="206" alt="Total de erros" src="https://github.com/user-attachments/assets/f11a6ae6-0fad-4275-8c90-36e5cf686dd7" />
 
 
 
-### Sugestões de melhoria pelos usuários
+## Sugestões de melhoria pelos usuários
 
 #### Avaliador 2
 
